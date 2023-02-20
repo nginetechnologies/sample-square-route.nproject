@@ -1,6 +1,7 @@
 {
-    "name": "Nature Low Poly",
+    "name": "Square Route",
     "guid": "6b8e174d-e0db-4f6f-a781-5ee6359aa3aa",
+    "database_guid": "7a8f6cb9-0f69-7e35-1b96-05667423be45",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,8 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
-    "default_scene": "0017a116-5687-421b-a80b-7b51fbbf8c51",
+    "thumbnail_guid": "8b35a618-c198-ccc8-113b-efcb0763fec8",
+    "default_scene": "da6c94e4-6a79-44c5-a8d3-aa1a5b6740e7",
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
