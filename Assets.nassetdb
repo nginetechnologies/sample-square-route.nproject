@@ -1,4 +1,8 @@
 {
+    "00165691-8f92-2955-c9b3-7d328a203cfe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Long.mesh.nasset/Thumbnails/Mound Long.mesh.nasset.tex.nasset"
+    },
     "0128253a-352d-db92-cf7e-2d5b80ea20c4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -14,6 +18,7 @@
     "01e7742c-7a21-5736-ca03-ed045ecc062f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gold.mtli.nasset",
+        "thumbnail": "18fe3fbe-d74d-808a-d312-c0fec10deebd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -33,6 +38,7 @@
     "02dab1c8-9745-57a0-327e-04b98004d323": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Coin.mesh.nasset/Coin.mesh.nasset",
+        "thumbnail": "64656e77-77cd-29e8-a637-9ad04a3907e5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -40,6 +46,7 @@
     "03476abc-86e1-c6bc-03ce-968e13e1ec1f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Stone Platform.mesh.nasset/Stone Platform.mesh.nasset",
+        "thumbnail": "b1278a02-5f49-30f5-0cc8-7a33a1991b4f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -56,12 +63,21 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0421829d-f2e1-a5cb-bce6-778760964fe7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Default.mtli.nasset.tex.nasset"
+    },
     "047d1012-85f4-83f3-348a-83eb652a9694": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Leaf Fall.mtli.nasset",
+        "thumbnail": "542a7876-a28c-dd86-cbfb-eacc93541e32",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "04f1e25c-7647-b18a-702d-c4c82af1d13b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Corner.mesh.nasset/Thumbnails/Mound Corner.mesh.nasset.tex.nasset"
     },
     "05458a27-7eab-42b2-b50b-3c365052a57d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -78,6 +94,7 @@
     "0583c5c1-0b1b-23f6-5084-65a902bc80ab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mushrooms.mesh.nasset/Mushrooms.mesh.nasset",
+        "thumbnail": "2a34a995-9557-f23a-e388-7cd32484d873",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -109,9 +126,14 @@
     "07ef0cf6-ea95-d4ca-a24c-abedce28190a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Leaf Dark.mtli.nasset",
+        "thumbnail": "e6e28416-690f-a7da-d948-b6859481f9ac",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "09620393-0f24-c9fe-5ee9-f1411a839cc8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Platform.mesh.nasset/Thumbnails/Cliff Platform.mesh.nasset.tex.nasset"
     },
     "0a44e99e-0648-acd1-e3a3-95929959b368": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -149,6 +171,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0bf721cd-bb6a-9e32-ce21-a1262eeb4358": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Rock Vegetation.mesh.nasset/Thumbnails/Rock Vegetation.mesh.nasset.tex.nasset"
+    },
     "0c4a904c-c517-6100-7440-7f9e47d0d75b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -160,6 +186,14 @@
             "9e3ebf20-0333-0bed-6d82-bc340e3d14d3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "0e075783-6636-5e46-a0d1-23cc6d3315d2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood Dark.mtli.nasset.tex.nasset"
+    },
+    "0e1b939f-a33d-4ed1-247f-a182aca69b80": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Sign.mesh.nasset/Thumbnails/Sign.mesh.nasset.tex.nasset"
     },
     "0e740815-19a2-eba2-09e0-1b9c3102b840": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -218,6 +252,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/AAA_Animations/Monster_Jump_Start.anim.nasset"
     },
+    "118849b2-6def-3ff9-dcf5-abf6df7730be": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 02.mesh.nasset/Thumbnails/Landscape 02.mesh.nasset.tex.nasset"
+    },
     "11cef480-a8cb-a3d7-190a-f4f4cd3d1200": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -233,6 +271,7 @@
     "124ac991-d130-335b-498d-fbdbf3d8ff0b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Water Wheel.mesh.nasset/Water Wheel.mesh.nasset",
+        "thumbnail": "3ab8d241-e9c7-1771-7c9b-98fb1256d216",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -273,6 +312,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "15fc66bc-987f-1ae0-6f36-edd71c5f6a5e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 2.mesh.nasset/Thumbnails/Mound 2.mesh.nasset.tex.nasset"
+    },
+    "1855be40-2261-08a9-3452-efe53309909e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Corn.mesh.nasset/Thumbnails/Crops Corn.mesh.nasset.tex.nasset"
+    },
     "1885ed7e-98fb-a2da-3c57-508e98246302": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -284,6 +331,10 @@
             "268d69c6-ee18-47d6-e9c7-f200892a69b3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "18fe3fbe-d74d-808a-d312-c0fec10deebd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Gold.mtli.nasset.tex.nasset"
     },
     "1956b18d-398c-fc0a-5f2a-b3e142fd554a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -312,6 +363,7 @@
     "1abde39b-a418-7351-9f15-8f0892383634": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Sleeping Bag.mesh.nasset/Sleeping Bag.mesh.nasset",
+        "thumbnail": "31091e16-62d6-af27-0574-18445f448ea2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -343,6 +395,7 @@
     "1bab84ef-db8e-058f-9831-1326d9b7095e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass.mesh.nasset/Grass.mesh.nasset",
+        "thumbnail": "a95bec71-2ea6-0129-c01d-8819e7d21084",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -350,6 +403,7 @@
     "1d2d185f-38c2-1a5d-ad9f-d156f5b0392a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Platform.mesh.nasset/Cliff Platform.mesh.nasset",
+        "thumbnail": "09620393-0f24-c9fe-5ee9-f1411a839cc8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -426,9 +480,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "259357f8-e031-4844-2377-64a35da2e2a0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Home 1.mesh.nasset/Thumbnails/Home 1.mesh.nasset.tex.nasset"
+    },
     "268d69c6-ee18-47d6-e9c7-f200892a69b3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Red.mtli.nasset",
+        "thumbnail": "36a9aadd-ee60-3ae9-f548-da85ff9f138d",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -445,6 +504,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2a34a995-9557-f23a-e388-7cd32484d873": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mushrooms.mesh.nasset/Thumbnails/Mushrooms.mesh.nasset.tex.nasset"
+    },
     "2b334afb-b54c-0a12-b40a-520aae97ef28": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -460,6 +523,7 @@
     "2c1988d5-a37b-4d7b-2000-8e6ca16d5fc2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood Inner.mtli.nasset",
+        "thumbnail": "51dfb48e-ec68-9f15-7d95-56f56e811e3c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -479,6 +543,7 @@
     "2e65f79a-245a-0ff8-7ccf-993908c5c1f1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 2.mesh.nasset/Mound 2.mesh.nasset",
+        "thumbnail": "15fc66bc-987f-1ae0-6f36-edd71c5f6a5e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -503,6 +568,7 @@
     "2fdf5ce2-8e7a-224f-001c-e40421fbdb0d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Rock Vegetation.mesh.nasset/Rock Vegetation.mesh.nasset",
+        "thumbnail": "0bf721cd-bb6a-9e32-ce21-a1262eeb4358",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -510,6 +576,7 @@
     "3001abc3-7702-2028-673e-c877eaebb78c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Small.mesh.nasset/Cliff Small.mesh.nasset",
+        "thumbnail": "55bada39-0851-b757-b38e-da81948117c1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -517,23 +584,38 @@
     "308272ab-a8bc-ff75-6bca-aa2ab63ef671": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Corn.mtli.nasset",
+        "thumbnail": "532674c2-de90-893e-5d5d-0b3677a392c5",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "31091e16-62d6-af27-0574-18445f448ea2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Sleeping Bag.mesh.nasset/Thumbnails/Sleeping Bag.mesh.nasset.tex.nasset"
+    },
     "3149b086-7c94-b979-ee1b-5f9d7caae306": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Rock.mesh.nasset/Mound Rock.mesh.nasset",
+        "thumbnail": "441c6a06-69a5-aaf6-c251-295d8039ad05",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "314bee3b-f56d-87e4-07aa-70024a991089": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Empty.mesh.nasset/Thumbnails/Crops Empty.mesh.nasset.tex.nasset"
+    },
     "336e0b5b-7470-5d62-1184-d83cfd881771": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound T.mesh.nasset/Mound T.mesh.nasset",
+        "thumbnail": "cf77aa7f-8329-af76-c6fc-878c74162476",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "339b3df2-30e8-6ca2-3da0-99c367f2289e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Ocean.mtli.nasset.tex.nasset"
     },
     "35b8ef2c-1797-e439-42d2-477d1543fd71": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -559,6 +641,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "36a9aadd-ee60-3ae9-f548-da85ff9f138d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
+    },
     "3788333c-f93d-ac75-750a-abfbe7b3e975": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -574,6 +660,7 @@
     "37d4abd3-07b5-f750-ba45-c025c8e9a0b3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Sign.mesh.nasset/Sign.mesh.nasset",
+        "thumbnail": "0e1b939f-a33d-4ed1-247f-a182aca69b80",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -593,6 +680,7 @@
     "3944835e-b85d-e300-befd-7aa0caf77c0e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 02.mesh.nasset/Landscape 02.mesh.nasset",
+        "thumbnail": "118849b2-6def-3ff9-dcf5-abf6df7730be",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -608,6 +696,10 @@
             "e1054f84-f26e-0a6b-c32f-3e2053e9f673",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3ab8d241-e9c7-1771-7c9b-98fb1256d216": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Water Wheel.mesh.nasset/Thumbnails/Water Wheel.mesh.nasset.tex.nasset"
     },
     "3c2b6cf4-b921-73e4-ac41-6127c9cb3897": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -633,12 +725,21 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3e4aad20-d403-c4a6-1af6-dba6b2efcef5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Logs.mesh.nasset/Thumbnails/Logs.mesh.nasset.tex.nasset"
+    },
     "3e52dc59-5c5e-1d1d-6f4a-3e68166832fb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Blocky Tree.mesh.nasset/Blocky Tree.mesh.nasset",
+        "thumbnail": "f4959a81-c57d-e067-a6bf-dd6d66cb285f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "3ea30ca2-eaa4-6e49-faa1-83e9da7e192b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 01.mesh.nasset/Thumbnails/Landscape 01.mesh.nasset.tex.nasset"
     },
     "3edc65f7-9634-4197-9df2-d8c52c89a8c0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -664,6 +765,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4008e558-dad1-5f0a-4774-773bd0a26325": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
+    },
     "40199fed-339a-958a-02fb-d66c60872771": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -679,13 +784,19 @@
     "41615784-f7eb-6617-eefe-f002245f9487": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Palm Trees.mesh.nasset/Palm Trees.mesh.nasset",
+        "thumbnail": "6026dd62-d52a-9f5c-bffb-221fd415be62",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "441c6a06-69a5-aaf6-c251-295d8039ad05": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Rock.mesh.nasset/Thumbnails/Mound Rock.mesh.nasset.tex.nasset"
+    },
     "45757ef4-6dd0-89c5-da90-d94eac4ecf02": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Radish.mesh.nasset/Crops Radish.mesh.nasset",
+        "thumbnail": "f098b7e8-dad1-b7b8-5f66-1ccf3c3dfbdd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -722,6 +833,7 @@
     "47777442-c63b-8354-0125-1592134be65f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Large.mesh.nasset/Mound Large.mesh.nasset",
+        "thumbnail": "6a30a8d4-1d91-924f-9030-2172d441a48a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -749,6 +861,10 @@
             "e1054f84-f26e-0a6b-c32f-3e2053e9f673",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "4b34e752-1de2-15e6-f926-887391ef1ec3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mountain Dirt.mesh.nasset/Thumbnails/Mountain Dirt.mesh.nasset.tex.nasset"
     },
     "4bda0f3f-bf9e-c28e-e386-d7e0ab2eda86": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -790,12 +906,21 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "4e0a2b1a-baeb-4582-9728-810d016759b9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 1.mesh.nasset/Thumbnails/Mound 1.mesh.nasset.tex.nasset"
+    },
     "4f772ac1-0842-1a35-0b93-50ade7274f63": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Round.mesh.nasset/Mound Round.mesh.nasset",
+        "thumbnail": "641dbbf4-4b9f-bbc5-5323-1557db7129e9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "4fdb0aac-03df-0b5e-fe97-12d1c558f06d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Bridge Wood.mesh.nasset/Thumbnails/Bridge Wood.mesh.nasset.tex.nasset"
     },
     "4ff7746e-ce00-ec11-2099-518f21b02e37": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -812,9 +937,14 @@
     "5064fc8a-be72-8928-99c0-fc76dd0c71b5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Long.mesh.nasset/Mound Long.mesh.nasset",
+        "thumbnail": "00165691-8f92-2955-c9b3-7d328a203cfe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "50729073-660b-c1f1-1ac7-39cbe570c258": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 3.mesh.nasset/Thumbnails/Mound 3.mesh.nasset.tex.nasset"
     },
     "513aad2b-da7b-c404-fe1e-ff29ed05d537": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -846,6 +976,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "51dfb48e-ec68-9f15-7d95-56f56e811e3c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood Inner.mtli.nasset.tex.nasset"
+    },
+    "532674c2-de90-893e-5d5d-0b3677a392c5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Corn.mtli.nasset.tex.nasset"
+    },
     "5329f32a-0895-1650-bbe6-ee46bccdaefe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -869,6 +1007,14 @@
             "e3dbdd7f-d78f-0622-13f5-5b5edd0273fc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "53fcf029-6c4e-e62b-2fdd-cf418234e0cd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Stone.mtli.nasset.tex.nasset"
+    },
+    "542a7876-a28c-dd86-cbfb-eacc93541e32": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Leaf Fall.mtli.nasset.tex.nasset"
     },
     "5509957e-704b-a647-6731-4a2d82f7d210": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -894,9 +1040,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "55bada39-0851-b757-b38e-da81948117c1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Small.mesh.nasset/Thumbnails/Cliff Small.mesh.nasset.tex.nasset"
+    },
     "56394ab5-ebf3-0923-a833-8cb321d4fdbb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Oak.mesh.nasset/Oak.mesh.nasset",
+        "thumbnail": "fc49432a-b152-7c66-a3e2-1033f9ea84df",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -913,9 +1064,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "587608ad-136e-24af-fb89-42f292bc3ccf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Path Stone.mesh.nasset/Thumbnails/Path Stone.mesh.nasset.tex.nasset"
+    },
     "58ae0f41-6eb7-7e13-393d-c124f1ee3a82": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Logs.mesh.nasset/Logs.mesh.nasset",
+        "thumbnail": "3e4aad20-d403-c4a6-1af6-dba6b2efcef5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -931,6 +1087,10 @@
             "7ea4c39a-4811-91b4-0105-a31d81fffcb0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "5a7d0e04-9acd-8fe8-92da-2119b0c98e4a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Wood Bark.mtli.nasset.tex.nasset"
     },
     "5b015848-6e6c-1fb9-dffb-c450dcd164b7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -983,9 +1143,18 @@
     "5c5d2a3e-01d8-2089-9bb3-97f335670bd1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Rock Small.mesh.nasset/Rock Small.mesh.nasset",
+        "thumbnail": "6d5c24b7-e7e7-b6b2-4607-a486b224b84b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "5c8adb7e-182b-1a4d-c817-43bcee10215f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Leaf.mtli.nasset.tex.nasset"
+    },
+    "5d0c67d1-f280-e495-0b5f-841f286c0bf2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Wide.mesh.nasset/Thumbnails/Mound Wide.mesh.nasset.tex.nasset"
     },
     "5e3001df-d2c9-57b1-0ee4-4aa93fc61fe7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1011,6 +1180,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6026dd62-d52a-9f5c-bffb-221fd415be62": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Palm Trees.mesh.nasset/Thumbnails/Palm Trees.mesh.nasset.tex.nasset"
+    },
+    "6041c5a3-ba4a-5f6e-b5cf-0f9018fe481b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass Patch.mesh.nasset/Thumbnails/Grass Patch.mesh.nasset.tex.nasset"
+    },
+    "609c67f3-ea27-86b3-9650-dee567ba4394": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mountain.mesh.nasset/Thumbnails/Mountain.mesh.nasset.tex.nasset"
+    },
     "61fe1039-db6f-8432-4bc1-e6969416f2bc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1035,6 +1216,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "641dbbf4-4b9f-bbc5-5323-1557db7129e9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Round.mesh.nasset/Thumbnails/Mound Round.mesh.nasset.tex.nasset"
+    },
+    "64656e77-77cd-29e8-a637-9ad04a3907e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Coin.mesh.nasset/Thumbnails/Coin.mesh.nasset.tex.nasset"
+    },
     "65c7535f-03e4-1cc3-8e40-a9f05fadd42a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1050,6 +1239,7 @@
     "66b89b5d-54da-4971-9dae-6beea3502cd2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 03.mesh.nasset/Landscape 03.mesh.nasset",
+        "thumbnail": "b0170dcc-8f8a-29a8-0c6c-18667b51629c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1069,6 +1259,7 @@
     "6768b853-844b-d2c5-a39d-a1a0af07ac18": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Angled.mesh.nasset/Mound Angled.mesh.nasset",
+        "thumbnail": "7724e250-ba70-bb92-94ab-127396804e07",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1077,6 +1268,14 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/AAA_Animations/Monster_Idle.anim.nasset"
+    },
+    "689bfe73-5a8b-e43f-7227-8d5e41e70b09": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Bridge Stone.mesh.nasset/Thumbnails/Bridge Stone.mesh.nasset.tex.nasset"
+    },
+    "6a30a8d4-1d91-924f-9030-2172d441a48a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Large.mesh.nasset/Thumbnails/Mound Large.mesh.nasset.tex.nasset"
     },
     "6b8e174d-e0db-4f6f-a781-5ee6359aa3aa": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -1112,9 +1311,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6d5c24b7-e7e7-b6b2-4607-a486b224b84b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Rock Small.mesh.nasset/Thumbnails/Rock Small.mesh.nasset.tex.nasset"
+    },
     "6e6cbf55-7182-8201-c89a-626bfb3a7621": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Bridge Stone.mesh.nasset/Bridge Stone.mesh.nasset",
+        "thumbnail": "689bfe73-5a8b-e43f-7227-8d5e41e70b09",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1135,9 +1339,14 @@
         "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
         "path": "Assets/Physical Materials/Box.physmat.nasset"
     },
+    "72651e35-e2b4-187f-4bcd-32c8dd133813": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dirt Dark.mtli.nasset.tex.nasset"
+    },
     "73ea4ce8-8bcd-eef6-b543-16761e5e6f70": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mountain.mesh.nasset/Mountain.mesh.nasset",
+        "thumbnail": "609c67f3-ea27-86b3-9650-dee567ba4394",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1153,6 +1362,10 @@
             "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7724e250-ba70-bb92-94ab-127396804e07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Angled.mesh.nasset/Thumbnails/Mound Angled.mesh.nasset.tex.nasset"
     },
     "776648f6-10c7-4acb-d5d7-f99c7c0d4f62": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1181,6 +1394,7 @@
     "7ea4c39a-4811-91b4-0105-a31d81fffcb0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Stone.mtli.nasset",
+        "thumbnail": "53fcf029-6c4e-e62b-2fdd-cf418234e0cd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1188,13 +1402,19 @@
     "7ebd73d1-3ed7-c7a1-82ab-a89c4d9271fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Pine 1.mesh.nasset/Pine 1.mesh.nasset",
+        "thumbnail": "a654632d-38fd-0c58-ede0-80fa37e5d6d8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "7f9fd3d3-aa47-1488-f5f0-d969faf81aab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Square.mesh.nasset/Thumbnails/Mound Square.mesh.nasset.tex.nasset"
+    },
     "81daaceb-8a9b-6b72-6402-d5f016a40cf9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt Dark.mtli.nasset",
+        "thumbnail": "72651e35-e2b4-187f-4bcd-32c8dd133813",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1202,9 +1422,14 @@
     "81e9561f-e610-a120-5c2e-668f149afc80": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Square.mesh.nasset/Mound Square.mesh.nasset",
+        "thumbnail": "7f9fd3d3-aa47-1488-f5f0-d969faf81aab",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "8280c352-beb1-9d54-37a5-d2affd10087a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Campfire.mesh.nasset/Thumbnails/Campfire.mesh.nasset.tex.nasset"
     },
     "8389de5b-bf8f-416d-4b11-9d10ed2ac278": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1221,6 +1446,7 @@
     "83d75fd5-1631-25c2-686b-2d55a66a90a6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Corn.mesh.nasset/Crops Corn.mesh.nasset",
+        "thumbnail": "1855be40-2261-08a9-3452-efe53309909e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1240,6 +1466,7 @@
     "847d7663-0b62-1071-4648-b541ebb52954": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Sand.mtli.nasset",
+        "thumbnail": "d7cb1dff-a755-1115-e88b-257d487f67e5",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1259,6 +1486,7 @@
     "84e86356-13e6-a0f1-6bc9-462e7c8de2ba": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Pines.mesh.nasset/Pines.mesh.nasset",
+        "thumbnail": "855af057-66d2-d9fc-1fc3-37666843682f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1275,9 +1503,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "855af057-66d2-d9fc-1fc3-37666843682f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Pines.mesh.nasset/Thumbnails/Pines.mesh.nasset.tex.nasset"
+    },
     "864c0c4c-7343-e4b2-7f45-2197d33d63ec": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Campfire.mesh.nasset/Campfire.mesh.nasset",
+        "thumbnail": "8280c352-beb1-9d54-37a5-d2affd10087a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1297,6 +1530,7 @@
     "873c0190-2728-9d6c-cab4-d12967da150c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Home 1.mesh.nasset/Home 1.mesh.nasset",
+        "thumbnail": "259357f8-e031-4844-2377-64a35da2e2a0",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1316,6 +1550,7 @@
     "8add3d15-160f-c934-3880-e739bcb26977": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Roof Red Light.mtli.nasset",
+        "thumbnail": "a36453cd-ab08-ceda-1bd4-71b50546b2dd",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1335,6 +1570,10 @@
             "81daaceb-8a9b-6b72-6402-d5f016a40cf9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "8c5c98a4-82ee-4a91-770c-0ca79ea86b31": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Sand Patch.mesh.nasset/Thumbnails/Sand Patch.mesh.nasset.tex.nasset"
     },
     "8d665860-4ffa-4a0d-87a7-24bd7c0fc365": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -1368,6 +1607,7 @@
     "8f95767d-7169-aeb2-fadb-91f8f7c0d703": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Bridge Wood.mesh.nasset/Bridge Wood.mesh.nasset",
+        "thumbnail": "4fdb0aac-03df-0b5e-fe97-12d1c558f06d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1399,6 +1639,7 @@
     "94f3b6cf-2cca-897f-14e2-a791dedebeea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood.mtli.nasset",
+        "thumbnail": "4008e558-dad1-5f0a-4774-773bd0a26325",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1458,6 +1699,7 @@
     "9a7d01ce-ecff-5c6f-5a58-2d6873aacb02": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Empty.mesh.nasset/Crops Empty.mesh.nasset",
+        "thumbnail": "314bee3b-f56d-87e4-07aa-70024a991089",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1489,6 +1731,7 @@
     "9c8d213b-97e0-517b-24e6-cb4aba1344c0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Bark Lighter.mtli.nasset",
+        "thumbnail": "b75407fe-127f-5096-ceb4-da54a08c6cbc",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1496,6 +1739,7 @@
     "9d01dcb7-e587-b838-6a5b-8075e94cb246": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/River End.mesh.nasset/River End.mesh.nasset",
+        "thumbnail": "aba49752-e7a0-bbdb-566f-db886219829d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1503,6 +1747,7 @@
     "9d270f74-1655-8cc5-4814-24e7b586e828": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Corner.mesh.nasset/Mound Corner.mesh.nasset",
+        "thumbnail": "04f1e25c-7647-b18a-702d-c4c82af1d13b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1534,6 +1779,7 @@
     "9e3ebf20-0333-0bed-6d82-bc340e3d14d3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Ocean.mtli.nasset",
+        "thumbnail": "339b3df2-30e8-6ca2-3da0-99c367f2289e",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1541,6 +1787,7 @@
     "9fc48a99-ee79-b2ce-72c7-74bfe58fd343": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 3.mesh.nasset/Pond 3.mesh.nasset",
+        "thumbnail": "cbcf313f-6c1e-d188-3132-652ebf91d92b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1593,6 +1840,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a36453cd-ab08-ceda-1bd4-71b50546b2dd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Roof Red Light.mtli.nasset.tex.nasset"
+    },
     "a384239f-0dfd-9b15-3ff3-6a7cd8e2a83a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1632,6 +1883,7 @@
     "a5e50504-6db3-2fbb-f9a5-865c5a8612fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Fence Corner.mesh.nasset/Fence Corner.mesh.nasset",
+        "thumbnail": "d068b262-c06a-bc7d-8c3a-881a4b059758",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1639,9 +1891,18 @@
     "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Grass.mtli.nasset",
+        "thumbnail": "d5ceb238-41e6-32c5-8151-b4a159ec28ab",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "a654632d-38fd-0c58-ede0-80fa37e5d6d8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Pine 1.mesh.nasset/Thumbnails/Pine 1.mesh.nasset.tex.nasset"
+    },
+    "a774a9a0-37c4-fa71-cdd5-f4ed990e58d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Water.mtli.nasset.tex.nasset"
     },
     "a94bc220-ef00-bd63-7b96-f279c1c5c57e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1654,6 +1915,10 @@
             "fcfb7149-169d-a142-e1a8-7dd246e63d65",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "a95bec71-2ea6-0129-c01d-8819e7d21084": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass.mesh.nasset/Thumbnails/Grass.mesh.nasset.tex.nasset"
     },
     "aaae5f47-9bb7-20df-1d69-42831f9098b7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1678,6 +1943,14 @@
             "e3dbdd7f-d78f-0622-13f5-5b5edd0273fc",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "aba27919-526f-1b7d-6c04-aee76c10fe68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Plane.mesh.nasset/Thumbnails/Plane.mesh.nasset.tex.nasset"
+    },
+    "aba49752-e7a0-bbdb-566f-db886219829d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/River End.mesh.nasset/Thumbnails/River End.mesh.nasset.tex.nasset"
     },
     "ac4edd2e-b108-21b0-d37c-5e9d132f83e8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1735,9 +2008,18 @@
     "afefdac3-168c-7034-2980-4c9ad5ec8dfd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 04.mesh.nasset/Landscape 04.mesh.nasset",
+        "thumbnail": "f894f800-a9b1-dbc6-a17d-b58c0c0d00d3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "b0170dcc-8f8a-29a8-0c6c-18667b51629c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 03.mesh.nasset/Thumbnails/Landscape 03.mesh.nasset.tex.nasset"
+    },
+    "b1278a02-5f49-30f5-0cc8-7a33a1991b4f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Stone Platform.mesh.nasset/Thumbnails/Stone Platform.mesh.nasset.tex.nasset"
     },
     "b1fdeaa9-a98f-de5e-a7ea-5953277d49b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1754,6 +2036,7 @@
     "b2d52d8e-f41a-4813-aa1b-0395f506b0d9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Plane.mesh.nasset/Plane.mesh.nasset",
+        "thumbnail": "aba27919-526f-1b7d-6c04-aee76c10fe68",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1773,6 +2056,7 @@
     "b3e4269d-af9b-7849-37f3-5791af073d28": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 1.mesh.nasset/Mound 1.mesh.nasset",
+        "thumbnail": "4e0a2b1a-baeb-4582-9728-810d016759b9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1780,16 +2064,26 @@
     "b4bc3c07-84ba-7630-9ac5-a9ebdebcaaa3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Sand Patch.mesh.nasset/Sand Patch.mesh.nasset",
+        "thumbnail": "8c5c98a4-82ee-4a91-770c-0ca79ea86b31",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "b4c0de23-96e0-581a-8ee9-5b971cda1c14": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Steps Square.mesh.nasset/Thumbnails/Steps Square.mesh.nasset.tex.nasset"
+    },
     "b63138c0-c294-def0-b307-f2ca5cc4c809": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Birch.mtli.nasset",
+        "thumbnail": "bbdd894f-f053-ad2d-ab14-3e66123abc43",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "b75407fe-127f-5096-ceb4-da54a08c6cbc": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Bark Lighter.mtli.nasset.tex.nasset"
     },
     "b947db19-e22f-4cdd-d9ea-9c6486bcf708": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1818,13 +2112,19 @@
     "bbbc5cc0-2806-24b3-8865-a84c9b9a3408": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape Round.mesh.nasset/Landscape Round.mesh.nasset",
+        "thumbnail": "ddc74b55-603a-39e4-324e-1759598e9ee4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "bbdd894f-f053-ad2d-ab14-3e66123abc43": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Birch.mtli.nasset.tex.nasset"
+    },
     "c0495b01-e3a5-cccc-d337-25376c4dc5c7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound 3.mesh.nasset/Mound 3.mesh.nasset",
+        "thumbnail": "50729073-660b-c1f1-1ac7-39cbe570c258",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1832,6 +2132,7 @@
     "c07d3574-13f2-b430-babd-fee0dc689ba9": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Water.mtli.nasset",
+        "thumbnail": "a774a9a0-37c4-fa71-cdd5-f4ed990e58d7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1839,6 +2140,7 @@
     "c0847986-c6ac-3774-784c-6d5da020bda0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Medium.mesh.nasset/Cliff Medium.mesh.nasset",
+        "thumbnail": "d209e158-4c53-a1f6-4479-e26a413ae6f5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1894,6 +2196,7 @@
     "c21ad8a3-eba1-ed0a-1d03-cac0d39f1655": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dirt.mtli.nasset",
+        "thumbnail": "d2bfe4aa-838a-4c3a-670a-06ab6aa8eda2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1937,6 +2240,7 @@
     "c5b283d6-bcfe-cb8d-5b48-378baca93b32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Steps Square.mesh.nasset/Steps Square.mesh.nasset",
+        "thumbnail": "b4c0de23-96e0-581a-8ee9-5b971cda1c14",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -1992,9 +2296,14 @@
     "ca495e46-86c3-0449-bd2d-9d6b15c3adfd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound L.mesh.nasset/Mound L.mesh.nasset",
+        "thumbnail": "fc1ab41c-e51a-60ed-08c5-e5581f03fe89",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "cbcf313f-6c1e-d188-3132-652ebf91d92b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 3.mesh.nasset/Thumbnails/Pond 3.mesh.nasset.tex.nasset"
     },
     "ccf3124d-87ce-dfe6-b183-5b49e293a5b1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2008,6 +2317,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cd4445eb-7393-418c-53f6-32f369dd3845": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Fence.mesh.nasset/Thumbnails/Fence.mesh.nasset.tex.nasset"
+    },
     "ce05aa0a-2d7e-c2c5-1ed3-8e77074aa284": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2020,12 +2333,21 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cf77aa7f-8329-af76-c6fc-878c74162476": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound T.mesh.nasset/Thumbnails/Mound T.mesh.nasset.tex.nasset"
+    },
     "d0161c87-0dca-3e2c-3d7c-40d50d9aff42": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Tent.mesh.nasset/Tent.mesh.nasset",
+        "thumbnail": "df5751ef-8fcd-2eb8-aa64-79040d307105",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "d068b262-c06a-bc7d-8c3a-881a4b059758": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Fence Corner.mesh.nasset/Thumbnails/Fence Corner.mesh.nasset.tex.nasset"
     },
     "d09c5736-13ae-4550-99fe-fe2f0c10185a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2056,6 +2378,10 @@
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Characters/AAA_Animations/Monster_Run.anim.nasset"
     },
+    "d209e158-4c53-a1f6-4479-e26a413ae6f5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Cliff Medium.mesh.nasset/Thumbnails/Cliff Medium.mesh.nasset.tex.nasset"
+    },
     "d28ef3e6-5eb8-d256-6fa0-3846d420c4b8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2068,9 +2394,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d2bfe4aa-838a-4c3a-670a-06ab6aa8eda2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dirt.mtli.nasset.tex.nasset"
+    },
     "d33f9e98-5a82-94d4-5540-0b6f204d930b": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Stone Dark.mtli.nasset",
+        "thumbnail": "f971b5d3-23d3-52be-b305-b24c30cb7a0a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2099,6 +2430,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d5ceb238-41e6-32c5-8151-b4a159ec28ab": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Grass.mtli.nasset.tex.nasset"
+    },
     "d6834a1c-d60d-6088-3883-cb36053a4b80": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2122,6 +2457,10 @@
             "e1054f84-f26e-0a6b-c32f-3e2053e9f673",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d7cb1dff-a755-1115-e88b-257d487f67e5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Sand.mtli.nasset.tex.nasset"
     },
     "d7e1dfc0-c3e3-411b-1bb0-92bca1fcc485": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2162,6 +2501,7 @@
     "da1ea99d-7c6d-eb43-dd62-9a7d77d12b24": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Canoe.mesh.nasset/Canoe.mesh.nasset",
+        "thumbnail": "e3a32258-9657-6ab6-6298-8b3ebc91f8d8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2207,16 +2547,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ddc74b55-603a-39e4-324e-1759598e9ee4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape Round.mesh.nasset/Thumbnails/Landscape Round.mesh.nasset.tex.nasset"
+    },
     "df1742d7-03ab-6c24-13fc-00a33d95ed43": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound Wide.mesh.nasset/Mound Wide.mesh.nasset",
+        "thumbnail": "5d0c67d1-f280-e495-0b5f-841f286c0bf2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "df5751ef-8fcd-2eb8-aa64-79040d307105": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Tent.mesh.nasset/Thumbnails/Tent.mesh.nasset.tex.nasset"
+    },
     "e1054f84-f26e-0a6b-c32f-3e2053e9f673": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood Bark.mtli.nasset",
+        "thumbnail": "5a7d0e04-9acd-8fe8-92da-2119b0c98e4a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2245,9 +2595,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e3a32258-9657-6ab6-6298-8b3ebc91f8d8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Canoe.mesh.nasset/Thumbnails/Canoe.mesh.nasset.tex.nasset"
+    },
     "e3dbdd7f-d78f-0622-13f5-5b5edd0273fc": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Default.mtli.nasset",
+        "thumbnail": "0421829d-f2e1-a5cb-bce6-778760964fe7",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2255,13 +2610,19 @@
     "e4ce4fb0-8d0d-d173-d9cf-524b482c9c9c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Fence.mesh.nasset/Fence.mesh.nasset",
+        "thumbnail": "cd4445eb-7393-418c-53f6-32f369dd3845",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "e6e28416-690f-a7da-d948-b6859481f9ac": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Leaf Dark.mtli.nasset.tex.nasset"
+    },
     "e75d2d5b-8440-1e62-204d-4734ae925b68": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 1.mesh.nasset/Pond 1.mesh.nasset",
+        "thumbnail": "f05a0aac-2381-62b5-423a-3e1b6c541af5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2269,6 +2630,7 @@
     "e97e4485-db4b-5d14-0463-fb847c7ad223": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass Patch.mesh.nasset/Grass Patch.mesh.nasset",
+        "thumbnail": "6041c5a3-ba4a-5f6e-b5cf-0f9018fe481b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2288,6 +2650,7 @@
     "eaebe748-36e0-63fc-df92-2b6703836dd1": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Wood Dark.mtli.nasset",
+        "thumbnail": "0e075783-6636-5e46-a0d1-23cc6d3315d2",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2307,6 +2670,7 @@
     "ee395749-2d55-098f-8383-e6057b34b159": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Path Stone.mesh.nasset/Path Stone.mesh.nasset",
+        "thumbnail": "587608ad-136e-24af-fb89-42f292bc3ccf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2335,6 +2699,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f05a0aac-2381-62b5-423a-3e1b6c541af5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 1.mesh.nasset/Thumbnails/Pond 1.mesh.nasset.tex.nasset"
+    },
+    "f098b7e8-dad1-b7b8-5f66-1ccf3c3dfbdd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Crops Radish.mesh.nasset/Thumbnails/Crops Radish.mesh.nasset.tex.nasset"
+    },
     "f0fbcaee-ce6e-7640-e773-5cbd10a06604": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2350,16 +2722,26 @@
     "f33966b8-ea85-e544-b182-29fb44c35d96": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Steps Long.mesh.nasset/Steps Long.mesh.nasset",
+        "thumbnail": "fdc39d8c-a8bd-4ff7-2dd2-dbc1a558c110",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "f3e3c01b-d3e4-4007-9f15-fbbdd43b3893": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 2.mesh.nasset/Thumbnails/Pond 2.mesh.nasset.tex.nasset"
+    },
     "f4637f52-4aea-9d44-0cb1-a0dbb101e96c": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Pond 2.mesh.nasset/Pond 2.mesh.nasset",
+        "thumbnail": "f3e3c01b-d3e4-4007-9f15-fbbdd43b3893",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
+    },
+    "f4959a81-c57d-e067-a6bf-dd6d66cb285f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Blocky Tree.mesh.nasset/Thumbnails/Blocky Tree.mesh.nasset.tex.nasset"
     },
     "f4f2a1d8-8458-bc7f-40d4-f845103aa7b0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2376,6 +2758,7 @@
     "f4f36227-8912-6347-cf5b-b2530f630aa9": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 01.mesh.nasset/Landscape 01.mesh.nasset",
+        "thumbnail": "3ea30ca2-eaa4-6e49-faa1-83e9da7e192b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2395,6 +2778,7 @@
     "f5532156-8932-0ce4-c482-4e7aa2a9b9e1": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass Clump.mesh.nasset/Grass Clump.mesh.nasset",
+        "thumbnail": "fedefda9-9f81-2cf2-cd63-e5345dc4acfd",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2423,6 +2807,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f894f800-a9b1-dbc6-a17d-b58c0c0d00d3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 04.mesh.nasset/Thumbnails/Landscape 04.mesh.nasset.tex.nasset"
+    },
     "f8e1579a-265b-de73-2228-b515272a32c0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2447,16 +2835,34 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f971b5d3-23d3-52be-b305-b24c30cb7a0a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Stone Dark.mtli.nasset.tex.nasset"
+    },
+    "fc1ab41c-e51a-60ed-08c5-e5581f03fe89": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Mound L.mesh.nasset/Thumbnails/Mound L.mesh.nasset.tex.nasset"
+    },
+    "fc49432a-b152-7c66-a3e2-1033f9ea84df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Oak.mesh.nasset/Thumbnails/Oak.mesh.nasset.tex.nasset"
+    },
     "fcfb7149-169d-a142-e1a8-7dd246e63d65": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Leaf.mtli.nasset",
+        "thumbnail": "5c8adb7e-182b-1a4d-c817-43bcee10215f",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "fdc39d8c-a8bd-4ff7-2dd2-dbc1a558c110": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Steps Long.mesh.nasset/Thumbnails/Steps Long.mesh.nasset.tex.nasset"
+    },
     "febfc972-94bf-ee15-7705-1fce3b291cd8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Mountain Dirt.mesh.nasset/Mountain Dirt.mesh.nasset",
+        "thumbnail": "4b34e752-1de2-15e6-f926-887391ef1ec3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
@@ -2472,6 +2878,10 @@
             "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "fedefda9-9f81-2cf2-cd63-e5345dc4acfd": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Square_Route.scene.nasset/Grass Clump.mesh.nasset/Thumbnails/Grass Clump.mesh.nasset.tex.nasset"
     },
     "guid": "7a8f6cb9-0f69-7e35-1b96-05667423be45"
 }
