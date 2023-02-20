@@ -1,7 +1,7 @@
 {
     "name": "Square Route",
     "guid": "6b8e174d-e0db-4f6f-a781-5ee6359aa3aa",
-    "database_guid": "7a8f6cb9-0f69-7e35-1b96-05667423be45",
+    "database_guid": "9bd97bd2-329b-a85c-e97d-56817fadd2d1",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -13,7 +13,7 @@
     "binary_directory": "bin",
     "library_directory": "lib",
     "thumbnail_guid": "8b35a618-c198-ccc8-113b-efcb0763fec8",
-    "default_scene": "da6c94e4-6a79-44c5-a8d3-aa1a5b6740e7",
+    "default_scene": "6ad3d3b9-b204-4ca5-9d12-201b30e397f1",
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
