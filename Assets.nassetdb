@@ -271,11 +271,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_Start.anim.nasset"
-    },
     "118849b2-6def-3ff9-dcf5-abf6df7730be": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Landscape 02.mesh.nasset/Thumbnails/Landscape 02.mesh.nasset.tex.nasset"
@@ -622,11 +617,6 @@
             "35d93462-33d7-1f19-95a7-ee3bc9b1ef04"
         ]
     },
-    "2faa50ba-2b11-bfcc-3046-66d06f31f36c": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Skeletons/RootNode.skel.nasset"
-    },
     "2fbabf9c-7d81-0021-c0b7-b92c3cb49ea4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -956,11 +946,6 @@
             "047d1012-85f4-83f3-348a-83eb652a9694",
             "eb49bb18-e124-6571-6cbe-7f699817af17"
         ]
-    },
-    "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_Loop.anim.nasset"
     },
     "47093bb7-2312-7dd6-53eb-22ddc546bb1a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1478,11 +1463,6 @@
             "8739f7c3-dd10-4509-2379-f5503935cd5e"
         ]
     },
-    "677433ca-643b-46a2-a9a4-ef02513b966c": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Idle.anim.nasset"
-    },
     "689bfe73-5a8b-e43f-7227-8d5e41e70b09": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Bridge Stone.mesh.nasset/Thumbnails/Bridge Stone.mesh.nasset.tex.nasset"
@@ -1625,10 +1605,6 @@
             "c21ad8a3-eba1-ed0a-1d03-cac0d39f1655",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "7a8f6cb9-0f69-7e35-1b96-05667423be45": {
-        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb"
     },
     "7ea4c39a-4811-91b4-0105-a31d81fffcb0": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1878,11 +1854,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Square_Route.scene.nasset/Sand Patch.mesh.nasset/Thumbnails/Sand Patch.mesh.nasset.tex.nasset"
     },
-    "8d665860-4ffa-4a0d-87a7-24bd7c0fc365": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Walk.anim.nasset"
-    },
     "8f2dedd3-fe0b-29d5-0af8-0ce2fb4dfc7c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2089,6 +2060,10 @@
             "c21ad8a3-eba1-ed0a-1d03-cac0d39f1655",
             "5e3001df-d2c9-57b1-0ee4-4aa93fc61fe7"
         ]
+    },
+    "9bd97bd2-329b-a85c-e97d-56817fadd2d1": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
     },
     "9be18f48-8591-966c-b6ae-ef0d1e5bc338": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2399,11 +2374,6 @@
             "94f3b6cf-2cca-897f-14e2-a791dedebeea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "ad74b9c5-4bc9-4638-85aa-c0964b90777c": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_End.anim.nasset"
     },
     "adf7b45e-78ec-70a6-3637-5525376b8b33": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2888,11 +2858,6 @@
             "9c8d213b-97e0-517b-24e6-cb4aba1344c0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Run.anim.nasset"
     },
     "d209e158-4c53-a1f6-4479-e26a413ae6f5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
