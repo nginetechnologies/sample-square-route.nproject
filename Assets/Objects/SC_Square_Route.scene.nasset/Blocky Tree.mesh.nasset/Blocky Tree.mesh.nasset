@@ -1,0 +1,115 @@
+{
+    "guid": "3e52dc59-5c5e-1d1d-6f4a-3e68166832fb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "589c3fd6-9f04-dfd4-2728-06444f70c338",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "196850ba-9f89-0813-27a8-d3a655d76d16",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Blocky Tree Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "9632d0a6-d4a7-4f22-e0ce-da07ab7e24a7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Blocky Tree Wood Bark Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "875d0e65-1e22-0d1d-f40a-a359362f7942",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Blocky Tree Wood Bark"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "487a3033-370c-5f80-17bb-a9e7cb2badeb",
+                                "material_instance": "e1054f84-f26e-0a6b-c32f-3e2053e9f673"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "487a3033-370c-5f80-17bb-a9e7cb2badeb"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                },
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "880a2e8d-8930-a93f-663d-2ea683df553a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Blocky Tree Leaf Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "716adc0a-3212-2a41-7366-ce93627f9a89",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Blocky Tree Leaf"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c0ebe965-5cfb-55bf-bee5-76f0f607fff0",
+                                "material_instance": "fcfb7149-169d-a142-e1a8-7dd246e63d65"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "c0ebe965-5cfb-55bf-bee5-76f0f607fff0"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3e52dc59-5c5e-1d1d-6f4a-3e68166832fb"
+    },
+    "dependencies": [
+        "e1054f84-f26e-0a6b-c32f-3e2053e9f673",
+        "487a3033-370c-5f80-17bb-a9e7cb2badeb",
+        "db5dc618-2cfe-44e9-a319-69c503d090e7",
+        "fcfb7149-169d-a142-e1a8-7dd246e63d65",
+        "c0ebe965-5cfb-55bf-bee5-76f0f607fff0"
+    ],
+    "thumbnailGuid": "f4959a81-c57d-e067-a6bf-dd6d66cb285f"
+}
