@@ -1,0 +1,20 @@
+{
+    "source": "A_Fernando_Jump_End.fbx",
+    "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+        }
+    ],
+    "guid": "346cddfa-38c3-4bfc-8300-84b7b3b29088",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ae882748-297c-242f-f49d-547d94d5ac8a"
+    ],
+    "instanceGuid": "e856e261-dc9a-f17b-50bb-bfa3606b84bf"
+}

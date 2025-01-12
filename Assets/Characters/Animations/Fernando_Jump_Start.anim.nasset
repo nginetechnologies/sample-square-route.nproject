@@ -1,0 +1,20 @@
+{
+    "source": "A_Fernando_Jump_Start.fbx",
+    "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "ae9295fa-1973-441e-bc46-ce81b25a2e48"
+        }
+    ],
+    "guid": "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ae882748-297c-242f-f49d-547d94d5ac8a"
+    ],
+    "instanceGuid": "e8bc7746-fc9b-13c5-0afd-8c9f50bb8aee"
+}

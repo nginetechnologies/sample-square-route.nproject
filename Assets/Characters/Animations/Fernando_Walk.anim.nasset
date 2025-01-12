@@ -1,0 +1,20 @@
+{
+    "guid": "86bae302-3a39-4693-8886-2a3d82e8444c",
+    "source": "A_Fernando_Walk.fbx",
+    "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "86bae302-3a39-4693-8886-2a3d82e8444c"
+        }
+    ],
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ae882748-297c-242f-f49d-547d94d5ac8a"
+    ],
+    "instanceGuid": "e2a77e49-d3f9-a308-39b0-874bd14b2493"
+}

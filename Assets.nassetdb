@@ -446,6 +446,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "197dfb08-ef77-6b64-b696-4921859e2327": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Space_Atlas_D.tex.nasset"
+    },
     "1a2cd4b8-2ab7-4f90-ab6a-5c2bc82ee86d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Pfx/Ember.mtli.nasset",
@@ -681,6 +685,14 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
+    "2c78848d-19f9-52de-0046-5835ff8ee564": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Fernando.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "197dfb08-ef77-6b64-b696-4921859e2327"
+        ]
+    },
     "2cdce3e4-f192-d5b5-a79b-49d988ce99d2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Pfx/T_Impact_Metal_D.tex.nasset"
@@ -836,6 +848,14 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Footstep Wood 2.audio.nasset"
+    },
+    "346cddfa-38c3-4bfc-8300-84b7b3b29088": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Jump_End.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
+        ]
     },
     "35b8ef2c-1797-e439-42d2-477d1543fd71": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1038,6 +1058,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Wood.mtli.nasset.tex.nasset"
     },
+    "400bf15b-80df-9602-95f5-3257c4b92449": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Material Instances/Thumbnails/Finn.mtli.nasset.tex.nasset"
+    },
     "40199fed-339a-958a-02fb-d66c60872771": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1064,6 +1088,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7",
             "fcfb7149-169d-a142-e1a8-7dd246e63d65",
             "a94bc220-ef00-bd63-7b96-f279c1c5c57e"
+        ]
+    },
+    "4169f1fe-8228-4b2d-8cd2-18e07b18c5be": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Fernando.scene.nasset",
+        "thumbnail": "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "60238f5d-813d-76b5-728d-9c190b5e9309"
         ]
     },
     "441c6a06-69a5-aaf6-c251-295d8039ad05": {
@@ -1549,6 +1586,26 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "60238f5d-813d-76b5-728d-9c190b5e9309": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Fernando.scene.nasset/SK Fernando.mesh.nasset/SK Fernando.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "2c78848d-19f9-52de-0046-5835ff8ee564",
+            "e3186c36-d591-f01b-4f5a-9d09dede3a18",
+            "cf3db1d2-78cc-2f12-d1e4-0d3fd4eb8f4b",
+            "ae882748-297c-242f-f49d-547d94d5ac8a",
+            "6370739e-b9dc-47db-babe-eabff0af0e90",
+            "86bae302-3a39-4693-8886-2a3d82e8444c",
+            "8442eb9c-e177-4d4d-89c4-c7d742471314",
+            "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+            "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc",
+            "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+        ]
+    },
     "6026dd62-d52a-9f5c-bffb-221fd415be62": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Square_Route.scene.nasset/Palm Trees.mesh.nasset/Thumbnails/Palm Trees.mesh.nasset.tex.nasset"
@@ -1593,6 +1650,14 @@
         "dependencies": [
             "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6370739e-b9dc-47db-babe-eabff0af0e90": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Idle.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
         ]
     },
     "63a61fc2-bb58-acb9-f729-98b1a7901a50": {
@@ -1854,6 +1919,10 @@
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Jump Stylized.audio.nasset"
     },
+    "79bf5cf5-8c50-46cb-bef5-d0ea7e4881f8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Thumbnails/Fernando.scene.nasset.tex.nasset"
+    },
     "7a6f4a77-339c-e8f8-a2c7-814e20190ffa": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Pfx/T_Laser_Dot_E.tex.nasset"
@@ -1978,6 +2047,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8442eb9c-e177-4d4d-89c4-c7d742471314": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Run.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
+        ]
+    },
     "847d7663-0b62-1071-4648-b541ebb52954": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Objects/Material Instances/Sand.mtli.nasset",
@@ -2048,6 +2125,14 @@
             "5192086e-ad6a-eeb4-0fc0-f8a0345e3391"
         ]
     },
+    "86bae302-3a39-4693-8886-2a3d82e8444c": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Walk.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
+        ]
+    },
     "86c94085-d216-4be3-8b98-03cc024ed96f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Pfx/Flames.mtli.nasset",
@@ -2111,6 +2196,14 @@
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Character/Landing Dirt 1.audio.nasset"
+    },
+    "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
+        ]
     },
     "8add3d15-160f-c934-3880-e739bcb26977": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2740,10 +2833,23 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ae882748-297c-242f-f49d-547d94d5ac8a": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Fernando.scene.nasset/SK Fernando.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "ae8f06c1-b770-43b7-9149-cceb109900fb": {
         "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
         "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
         "path": "Assets/Audio/SFX/Ambience/Ambience Outdoors 1.audio.nasset"
+    },
+    "ae9295fa-1973-441e-bc46-ce81b25a2e48": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Fernando_Jump_Start.anim.nasset",
+        "dependencies": [
+            "ae882748-297c-242f-f49d-547d94d5ac8a"
+        ]
     },
     "aef282a0-4d58-9253-ab22-9c5894d9e4b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3078,6 +3184,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c40bc345-498f-42c6-751f-8b1c7f7589cf": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Fernando.scene.nasset/SK_Fernando.scene.nasset",
+        "dependencies": [
+            "60238f5d-813d-76b5-728d-9c190b5e9309"
+        ]
+    },
     "c4db7042-bec8-f856-fe70-182d8f5b204f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3229,6 +3343,20 @@
         "dependencies": [
             "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "ce0bc1c0-5a77-b711-e589-3e3bfa25a044": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Material Instances/Thumbnails/Barbara.mtli.nasset.tex.nasset"
+    },
+    "cf3db1d2-78cc-2f12-d1e4-0d3fd4eb8f4b": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Fernando.scene.nasset/SK Fernando.mesh.nasset/SK Fernando Fernando.meshskin.nasset",
+        "dependencies": [
+            "e3186c36-d591-f01b-4f5a-9d09dede3a18",
+            "ae882748-297c-242f-f49d-547d94d5ac8a",
+            "2c78848d-19f9-52de-0046-5835ff8ee564"
         ]
     },
     "cf77aa7f-8329-af76-c6fc-878c74162476": {
@@ -3483,6 +3611,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Pfx/T_Sparks_D.tex.nasset"
     },
+    "dea5cdf4-8f84-0e34-4eee-524cd1ba963a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Material Instances/Thumbnails/Rae.mtli.nasset.tex.nasset"
+    },
     "df1742d7-03ab-6c24-13fc-00a33d95ed43": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3525,6 +3657,18 @@
         ],
         "dependencies": [
             "a5f791ba-1fc5-7893-b3a6-e2e39e6fc02b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e3186c36-d591-f01b-4f5a-9d09dede3a18": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Fernando.scene.nasset/SK Fernando.mesh.nasset/SK Fernando Fernando.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2c78848d-19f9-52de-0046-5835ff8ee564",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },

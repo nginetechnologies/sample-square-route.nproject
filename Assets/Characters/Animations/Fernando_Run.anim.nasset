@@ -1,0 +1,20 @@
+{
+    "source": "A_Fernando_Run.fbx",
+    "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "8442eb9c-e177-4d4d-89c4-c7d742471314"
+        }
+    ],
+    "guid": "8442eb9c-e177-4d4d-89c4-c7d742471314",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "ae882748-297c-242f-f49d-547d94d5ac8a"
+    ],
+    "instanceGuid": "abcc7c96-0def-8426-e72f-859ebcc9df8c"
+}

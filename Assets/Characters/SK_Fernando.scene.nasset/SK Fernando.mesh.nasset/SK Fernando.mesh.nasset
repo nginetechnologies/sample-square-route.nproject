@@ -1,0 +1,94 @@
+{
+    "guid": "60238f5d-813d-76b5-728d-9c190b5e9309",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "65eca4c9-713a-8e3e-7aaa-35c4a2e9982e",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "7fb337e2-2f62-52c5-366e-73540c325580",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Fernando Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ea0182fa-1b8b-a49f-f5d4-f0ea8a09851e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "6370739e-b9dc-47db-babe-eabff0af0e90",
+                                "86bae302-3a39-4693-8886-2a3d82e8444c",
+                                "8442eb9c-e177-4d4d-89c4-c7d742471314"
+                            ],
+                            "jump_animations": [
+                                "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+                                "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc",
+                                "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "4e430f72-8c81-c154-5a3c-2ac6dfe317b2",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Fernando Fernando"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e3186c36-d591-f01b-4f5a-9d09dede3a18",
+                                "material_instance": "2c78848d-19f9-52de-0046-5835ff8ee564"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cf3db1d2-78cc-2f12-d1e4-0d3fd4eb8f4b"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "ae882748-297c-242f-f49d-547d94d5ac8a"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "60238f5d-813d-76b5-728d-9c190b5e9309"
+    },
+    "dependencies": [
+        "2c78848d-19f9-52de-0046-5835ff8ee564",
+        "e3186c36-d591-f01b-4f5a-9d09dede3a18",
+        "cf3db1d2-78cc-2f12-d1e4-0d3fd4eb8f4b",
+        "ae882748-297c-242f-f49d-547d94d5ac8a",
+        "6370739e-b9dc-47db-babe-eabff0af0e90",
+        "86bae302-3a39-4693-8886-2a3d82e8444c",
+        "8442eb9c-e177-4d4d-89c4-c7d742471314",
+        "ae9295fa-1973-441e-bc46-ce81b25a2e48",
+        "8a4b29d8-b8ee-4aff-a2df-05f56b358fbc",
+        "346cddfa-38c3-4bfc-8300-84b7b3b29088"
+    ]
+}
